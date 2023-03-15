@@ -1,6 +1,6 @@
 #!/bin/bash
 
 # Define current version of script
-VERSION=1
+VERSION=4
 
 echo "hi"
